@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">备忘录</string>
+    <string name="app_title">便签</string>
+    <string name="app_copyright">COPYRIGHT© 2017 LIUYANG</string>
+    <string name="default_detail">
+        "有些人沦为平庸浅薄，金玉其外，而败絮其中。可不经意间，有一天你会遇到一个彩虹般绚丽的人，从此以后，其他人就不过是匆匆浮云。\n\n"
+    </string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+    <string name="go_swipe_back">SwipeBackActivity+Fragment</string>
+    <string name="go_swipe_back_f">SwipeBackFragment</string>
+
+    <!--Detail页-->
+    <string name="detail_text_size">18sp</string>
+    <string name="detail_padding">15dp</string>
+
+    <!--进度-->
+    <string name="progress_00">我想再拖一拖</string>
+    <string name="progress_01">我已经做了规划</string>
+    <string name="progress_02">我已经开始行动</string>
+    <string name="progress_03">忙碌了好久了</string>
+    <string name="progress_04">离完工不远了</string>
+    <string name="progress_05">大功告成</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="image_transition">image_transition</string>
+    <string name="press_again_exit">再按一次退出</string>
+    <string name="send">发送</string>
+</resources>

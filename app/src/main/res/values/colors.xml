@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#11B7F3</color>
+    <color name="colorPrimaryDark">#11B7F3</color>
+    <color name="colorAccent">#FFCC33</color>
+    <color name="bg_app">#F1F1F1</color>
+
+    <color name="tab_un_select">#808080</color>
+    <color name="bg_btn">#dadada</color>
+
+    <color name="title_transparent_black">#22000000</color>
+    <color name="light_black">#141414</color>
+    <color name="line_and_outline_grey">#d9d9d9</color>
+    <color name="white">#ffffff</color>
+
+
+    <color name="green">#00ff00</color>
+    <color name="green_dark_01">#3CB371</color>
+    <color name="green_dark_02">#0f944a</color>
+    <color name="green_dark_03">#086431</color>
+
+    <color name="gray_dark">#696969</color>
+    <color name="gray">#808080</color>
+    <color name="gray_light_01">#D3D3D3</color>
+    <color name="orange_light_01">#FFCC33</color>
+    <color name="wheat">#F5DEB3</color>
+    <color name="wheat_deep_01">#DEB887</color>
+    <color name="wheat_deep_02">#D2B48C</color>
+    <color name="wheat_deep_03">#CD853F</color>
+    <color name="wheat_light_01">#FAEBD7</color>
+    <color name="wheat_light_02">#FFFAFA</color>
+
+    <color name="system_light_red">#F44336</color>
+    <color name="system_deep_red">#D32F2F</color>
+    <color name="system_light_blue">#536DFE</color>
+
+    <color name="qq_light_blue">#11B7F3</color>
+
+</resources>

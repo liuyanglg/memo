@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<com.github.clans.fab.FloatingActionMenu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:fab="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/f2_fab_menu"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="bottom|right"
+    android:layout_marginBottom="24dp"
+    android:layout_marginRight="24dp"
+    fab:menu_icon="@drawable/ic_ring"
+    fab:menu_animationDelayPerItem="0"
+    fab:menu_colorNormal="@color/wheat"
+    fab:menu_colorPressed="@color/wheat_deep_01"
+    fab:menu_colorRipple="@color/wheat_deep_02"
+    fab:menu_labels_hideAnimation="@anim/jump_to_down"
+    fab:menu_labels_showAnimation="@anim/jump_from_down"
+    fab:menu_labels_style="@style/MenuLabelsStyle"
+    fab:menu_shadowColor="#444">
+    <com.github.clans.fab.FloatingActionButton
+        android:id="@+id/f2_fab_alarm"
+        style="@style/MenuButtonsSmall.Green"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_alarm_on_01"
+        fab:fab_label="设置提醒" />
+
+    <com.github.clans.fab.FloatingActionButton
+        android:id="@+id/f2_fab_cancel_alarm"
+        style="@style/MenuButtonsSmall.Blue"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_alarm_off_01"
+        fab:fab_label="取消提醒" />
+
+    <com.github.clans.fab.FloatingActionButton
+        android:id="@+id/f2_fab_set_progress"
+        style="@style/MenuButtonsSmall.Red"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_progress_02"
+        fab:fab_label="设置进度" />
+
+</com.github.clans.fab.FloatingActionMenu>
+

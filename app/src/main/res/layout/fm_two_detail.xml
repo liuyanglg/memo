@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:id="@+id/f2_view_scroll"
+        android:fillViewport="true"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <MultiAutoCompleteTextView
+
+            android:padding="@dimen/detail_padding"
+            android:id="@+id/f2_edt_detail"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/wheat_light_02"
+            android:textStyle="normal"
+            android:textColor="@color/gray_dark"
+            android:gravity="start"
+            android:lineSpacingMultiplier="1.5"
+            android:text="@string/default_detail"
+            android:textSize="@dimen/detail_text_size" />
+    </ScrollView>
+
+    <!--<LinearLayout-->
+    <!--android:id="@+id/f2_layout_detail"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="match_parent"-->
+    <!--android:clickable="true"-->
+    <!--android:orientation="vertical"></LinearLayout>-->
+
+
+</LinearLayout>

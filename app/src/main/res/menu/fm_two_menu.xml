@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/i2_set_ring"
+        android:icon="@drawable/ic_alarm_on_01"
+        android:title="设置铃声"
+        app:showAsAction="never" />
+</menu>
